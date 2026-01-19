@@ -9,14 +9,14 @@ STEPPER: a physical activity program co-produced by and for young adults' well-b
 
 ## 1. What counts as physical activity?
 
-### a. Definition of physical activity
+###  Definition of physical activity
 "Physical activity is defined as any bodily movement produced by skeletal muscles that results in energy expenditure" (Caspersen et al., 1985)
 
 ![Runners in a park]({{ '/pics/jogging-4211946.jpg' | relative_url }})
 
 Physical activity is any body movement that uses energy. It includes movement during free time, travel/transport, and daily tasks at work or home (World Health Organization, 2020). For example, walking to class, taking the stairs, cleaning, playing sports, or exercising, all of these count as physical activity.
 
-### b. Physical activity principle (FITT)
+###  Physical activity principle (FITT)
 Physical activity is commonly described using the FITT principle: frequency (how often), intensity (how hard), time (how long), and type (what kind of activity)
 
 'I run for 60 minutes once a week, and I feel breathing hard, but I can still talk to others while doing it.'
@@ -27,7 +27,7 @@ Physical activity is commonly described using the FITT principle: frequency (how
 
 Frequency: once a week; Intensity: moderate; Time: 60 minutes; Type: running
 
-### c. Physical activity guideline
+###  Physical activity guideline
 Move more, sit less, every bit counts! Even small amounts of moderate-to-vigorous activity provide health benefits, and meeting activity guidelines brings even more.
 
 
@@ -93,17 +93,29 @@ Start with a simple, low-barrier, high-benefit exercise: walking/jogging. Learn 
 
 **Warm-up for walking and running**
 
-[5 MIN PRE-RUNNING STRETCHING - WARM UP FOR RUNNERS (Run and Stretch)](https://www.youtube.com/watch?v=tXDLy-Jd61s) - Source: YouTube.
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXDLy-Jd61s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">5 MIN PRE-RUNNING STRETCHING - WARM UP FOR RUNNERS (Run and Stretch) - Source: YouTube.</p>
 
 **Walking/jogging techniques**
 
-[Running Form: Correct Technique and Tips to Avoid Injury (Mark's Daily Apple)](https://www.youtube.com/watch?v=gsUL3a1CxUQ) - Source: YouTube.
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gsUL3a1CxUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">Running Form: Correct Technique and Tips to Avoid Injury (Mark's Daily Apple) - Source: YouTube.</p>
 
 **Pacing & breathe**
 
-[How to set your running pace (Brooks Running)](https://www.youtube.com/watch?v=VKCYg-M2HK0) - Source: YouTube.
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKCYg-M2HK0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">How to set your running pace (Brooks Running) - Source: YouTube.</p>
 
-[How to Breathe so Running Feels EASIER! (Nicklas Rossner)](https://www.youtube.com/watch?v=pxn34Lx3CYY) - Source: YouTube.
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxn34Lx3CYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">How to Breathe so Running Feels EASIER! (Nicklas Rossner) - Source: YouTube.</p>
 
 ## 4. Get ready: Sleep better, eat better
 For a healthier lifestyle, more energy, and better physical activity performance, sleep and nutrition matter. Adults aged 18-64 are recommended to get 7-9 hours of good-quality sleep regularly, along with a healthy diet. Use the tips below to support better sleep and healthier eating.
