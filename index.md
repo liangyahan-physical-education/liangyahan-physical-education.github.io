@@ -19,7 +19,7 @@ Physical activity is any body movement that uses energy. It includes movement du
 Physical activity is commonly described using the FITT principle: frequency (how often), intensity (how hard), time (how long), and type (what kind of activity)
 
 'I run for 60 minutes once a week, and I feel breathing hard, but I can still talk to others while doing it.'
-![Talk Test]({{ '/pics/talk_test.jpg' | relative_url }})
+![Talk Test]({{ '/pics/talk_test.png' | relative_url }})
 
 
 Frequency: once a week; Intensity: moderate; Time: 60 minutes; Type: running
