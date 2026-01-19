@@ -21,7 +21,7 @@ Physical activity is commonly described using the FITT principle: frequency (how
 
 'I run for 60 minutes once a week, and I feel breathing hard, but I can still talk to others while doing it.'
 <div style="margin: 50px auto; text-align: center;">
-<img src="{{ '/pics/talk_test.png' | relative_url }}" alt="Talk Test" style="transform: scale(1.5); transform-origin: center; display: block; margin: 0 auto;">
+<img src="{{ '/pics/talk_test.png' | relative_url }}" alt="Talk Test" style="transform: scale(1.2); transform-origin: center; display: block; margin: 0 auto;">
 </div>
 
 
@@ -97,7 +97,7 @@ Start with a simple, low-barrier, high-benefit exercise: walking/jogging. Learn 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bbF_7_pckZc?si=tvoLOcZqV-5tF6qq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">
-PRE RUN WARM UP & STRETCHES（Run and Stretch） - Source: YouTube.</p>
+PRE RUN WARM UP & STRETCHES（Run and Stretch）- Source: YouTube.</p>
 
 **Walking/jogging techniques**
 
