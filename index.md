@@ -1,6 +1,7 @@
 ---
 layout: default
-title: STEPPER - A physical activity program co-produced by and for young adults' well-being (Education component)
+title: STEPPER
+subtitle: A physical activity program co-produced by and for young adults' well-being (Education component)
 ---
 
 

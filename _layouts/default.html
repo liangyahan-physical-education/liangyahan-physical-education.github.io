@@ -11,7 +11,9 @@
     <div class="container">
         <header class="header">
             <h1>{{ page.title | default: site.title }}</h1>
-            {% if site.description %}
+            {% if page.subtitle %}
+            <p class="subtitle">{{ page.subtitle }}</p>
+            {% elsif site.description %}
             <p class="subtitle">{{ site.description }}</p>
             {% endif %}
         </header>
