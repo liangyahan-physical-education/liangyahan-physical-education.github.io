@@ -48,6 +48,7 @@ body {
 /* Content Styles */
 .content {
     padding: 0 20px;
+    font-size: 1.05em;
 }
 
 .content h1:first-of-type {
