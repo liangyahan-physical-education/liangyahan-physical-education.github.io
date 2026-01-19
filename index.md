@@ -7,16 +7,16 @@ STEPPER: a physical activity program co-produced by and for young adults' well-b
 
 (Education component)
 
-1. What counts as physical activity?
+## 1. What counts as physical activity?
 
-a. Definition of physical activity
+### a. Definition of physical activity
 "Physical activity is defined as any bodily movement produced by skeletal muscles that results in energy expenditure" (Caspersen et al., 1985)
 
 ![Runners in a park]({{ '/pics/jogging-4211946.jpg' | relative_url }})
 
 Physical activity is any body movement that uses energy. It includes movement during free time, travel/transport, and daily tasks at work or home (World Health Organization, 2020). For example, walking to class, taking the stairs, cleaning, playing sports, or exercising, all of these count as physical activity.
 
-b. Physical activity principle (FITT)
+### b. Physical activity principle (FITT)
 Physical activity is commonly described using the FITT principle: frequency (how often), intensity (how hard), time (how long), and type (what kind of activity)
 
 'I run for 60 minutes once a week, and I feel breathing hard, but I can still talk to others while doing it.'
@@ -27,7 +27,7 @@ Physical activity is commonly described using the FITT principle: frequency (how
 
 Frequency: once a week; Intensity: moderate; Time: 60 minutes; Type: running
 
-c. Physical activity guideline
+### c. Physical activity guideline
 Move more, sit less, every bit counts! Even small amounts of moderate-to-vigorous activity provide health benefits, and meeting activity guidelines brings even more.
 
 
@@ -36,7 +36,7 @@ Move more, sit less, every bit counts! Even small amounts of moderate-to-vigorou
 
 Move Your Way Adult Dosage (U.S. Department of Health and Human Services, 2018)
 
-2. Why physical activity matters?
+## 2. Why physical activity matters?
 In adults, physical activity provides health benefits in the following areas (World Health Organization, 2020; U.S. Department of Health and Human Services, 2018):
 
 - Improved all-cause mortality
@@ -58,7 +58,7 @@ Adults should focus on the benefits that matter most to them. For some, health i
 - Offers opportunities for enjoyable, often social, recreational activities;
 - Improves personal appearance, energy levels, and overall well-being; and
 - Creates chances to support and be active with family members or friends
-Risks of Sedentary Behavior
+### Risks of Sedentary Behavior
 
 Sedentary behavior means any waking activity that uses very little energy (≤1.5 METs) while sitting, reclining, or lying down. It includes time spent sitting at work or during leisure, such as watching TV (U.S. Department of Health and Human Services, 2018).
 
@@ -82,7 +82,7 @@ Spending more time in sedentary behavior increases the risk of:
 </div>
 Note: METs, metabolic equivalents. METs are used to quantify energy expenditure as multiples of the resting metabolic rate. 1 MET is the rate of energy expenditure while sitting at rest.
 
-3. Getting started
+## 3. Getting started
 Start with a simple, low-barrier, high-benefit exercise: walking/jogging. Learn warm-ups, technique, pacing, and breathing from the source below:
 
 **Warm-up for walking and running**
@@ -99,10 +99,10 @@ Start with a simple, low-barrier, high-benefit exercise: walking/jogging. Learn 
 
 [How to Breathe so Running Feels EASIER! (Nicklas Rossner)](https://www.youtube.com/watch?v=pxn34Lx3CYY) - Source: YouTube.
 
-4. Get ready: Sleep better, eat better
+## 4. Get ready: Sleep better, eat better
 For a healthier lifestyle, more energy, and better physical activity performance, sleep and nutrition matter. Adults aged 18-64 are recommended to get 7-9 hours of good-quality sleep regularly, along with a healthy diet. Use the tips below to support better sleep and healthier eating.
 
-Tip for falling asleep faster and sleeping better (National Health Service, n.d.)
+### Tip for falling asleep faster and sleeping better (National Health Service, n.d.)
 
 1) Have a good sleep routine (sleep hygiene)
 A consistent sleep routine (good sleep hygiene) improves sleep. Set a nightly wind-down time with a relaxing activity, and go to bed and wake up at the same times every day—even on weekends.
@@ -126,7 +126,7 @@ Don't force sleep. If rest is pleasant, let sleep come naturally. If you can't s
 6) Improve sleep through diet and exercise
 Better sleep is supported by a healthy diet and regular exercise. Avoid big meals near bedtime, and cut out caffeine, alcohol, and nicotine 1-2 hours before bed. Exercise regularly, but skip intense workouts in the 90 minutes before sleep if they keep you awake.
 
-Tip for Healthy Eating (Centers for Disease Control and Prevention, 2024)
+### Tip for Healthy Eating (Centers for Disease Control and Prevention, 2024)
 
 1) Bump up fiber
 Fiber supports digestion, keeps you fuller longer, helps manage blood sugar, and can lower cholesterol. Good sources include fruits and vegetables, whole grains, legumes, nuts, and seeds.
@@ -156,8 +156,9 @@ For example: Eat high-sodium processed and prepackaged food (breads, pizza, and 
 Eat a rainbow of fruits and vegetables, foods like oranges, tomatoes, leafy greens, and herbs provide lots of vitamins, minerals, and fiber.
 
 For example: Make a red sauce with fresh tomatoes, fresh herbs, and spices. Top low-fat, unsweetened yogurt with your favorite fruit.
-5. Quiz
-Reference
+## 5. Quiz
+
+## Reference
 
 1. Caspersen, C. J., Powell, K. E., & Christenson, G. M. (1985). Physical activity, exercise, and physical fitness: Definitions and distinctions for health-related research. Public Health Reports, 100(2), 126–131. https://pmc.ncbi.nlm.nih.gov/articles/PMC1424733/
 
