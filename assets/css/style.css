@@ -127,6 +127,7 @@ body {
 .content figure {
     margin: 20px auto;
     text-align: center;
+    display: block;
 }
 
 .content figcaption {
@@ -134,21 +135,26 @@ body {
     color: #666;
     font-style: italic;
     margin-top: 10px;
-    text-align: center;
+    text-align: center !important;
     display: block;
     width: 100%;
+    max-width: 100%;
 }
 
 /* Ensure captions in two-column layout are also centered */
 .two-column .column-right figure {
     text-align: center;
     margin: 0 auto;
+    display: block;
 }
 
 .two-column .column-right figcaption {
-    text-align: center;
+    text-align: center !important;
     display: block;
     width: 100%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Responsive image sizes by device type */
