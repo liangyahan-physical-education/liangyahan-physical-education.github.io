@@ -19,11 +19,17 @@ Physical activity is any body movement that uses energy. It includes movement du
 Physical activity is commonly described using the FITT principle: frequency (how often), intensity (how hard), time (how long), and type (what kind of activity)
 
 'I run for 60 minutes once a week, and I feel breathing hard, but I can still talk to others while doing it.'
+![Talk Test]({{ '/pics/talk_test.jpg' | relative_url }})
+
 
 Frequency: once a week; Intensity: moderate; Time: 60 minutes; Type: running
 
 - Physical activity guideline
 Move more, sit less, every bit counts! Even small amounts of moderate-to-vigorous activity provide health benefits, and meeting activity guidelines brings even more.
+
+
+![Move Your Way]({{ '/pics/move_your_way.png' | relative_url }})
+
 
 Move Your Way Adult Dosage (U.S. Department of Health and Human Services, 2018)
 

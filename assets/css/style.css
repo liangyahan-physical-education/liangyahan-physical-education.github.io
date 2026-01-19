@@ -120,6 +120,29 @@ body {
     margin: 20px auto;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    object-fit: contain;
+}
+
+/* Responsive image sizes by device type */
+/* Large desktops (1200px and above) */
+@media (min-width: 1200px) {
+    .content img {
+        max-width: 700px;
+    }
+}
+
+/* Tablets and small desktops (768px to 1199px) */
+@media (min-width: 768px) and (max-width: 1199px) {
+    .content img {
+        max-width: 85%;
+    }
+}
+
+/* Mobile devices (767px and below) */
+@media (max-width: 767px) {
+    .content img {
+        max-width: 100%;
+    }
 }
 
 /* Code and Pre */
