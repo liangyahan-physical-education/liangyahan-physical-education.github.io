@@ -216,6 +216,41 @@ body {
     }
 }
 
+/* Two-column layout */
+.two-column {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin: 20px 0;
+}
+
+.two-column .column-left,
+.two-column .column-right {
+    flex: 1;
+}
+
+.two-column .column-left {
+    min-width: 0;
+}
+
+.two-column .column-right img {
+    margin: 0;
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Responsive: stack columns on mobile */
+@media (max-width: 768px) {
+    .two-column {
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .two-column .column-right img {
+        max-width: 100%;
+    }
+}
+
 /* Print Styles */
 @media print {
     body {
@@ -232,5 +267,13 @@ body {
     
     .footer {
         border-top: 1px solid #ddd;
+    }
+    
+    .two-column {
+        display: block;
+    }
+    
+    .two-column .column-right {
+        page-break-inside: avoid;
     }
 }
