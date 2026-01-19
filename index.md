@@ -94,26 +94,26 @@ Start with a simple, low-barrier, high-benefit exercise: walking/jogging. Learn 
 **Warm-up for walking and running**
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tXDLy-Jd61s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/tXDLy-Jd61s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">5 MIN PRE-RUNNING STRETCHING - WARM UP FOR RUNNERS (Run and Stretch) - Source: YouTube.</p>
 
 **Walking/jogging techniques**
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gsUL3a1CxUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/gsUL3a1CxUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">Running Form: Correct Technique and Tips to Avoid Injury (Mark's Daily Apple) - Source: YouTube.</p>
 
 **Pacing & breathe**
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VKCYg-M2HK0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/VKCYg-M2HK0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">How to set your running pace (Brooks Running) - Source: YouTube.</p>
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxn34Lx3CYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/pxn34Lx3CYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">How to Breathe so Running Feels EASIER! (Nicklas Rossner) - Source: YouTube.</p>
 
