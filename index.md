@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STEPPER
+title: STEPPER - A physical activity program co-produced by and for young adults' well-being (Education component)
 ---
 
 
@@ -17,12 +17,11 @@ Physical activity is any body movement that uses energy. It includes movement du
 ###  Physical activity principle (FITT)
 Physical activity is commonly described using the FITT principle: frequency (how often), intensity (how hard), time (how long), and type (what kind of activity)
 
-'I run for 60 minutes once a week, and I feel breathing hard, but I can still talk to others while doing it.'
 <div style="margin: 50px auto; text-align: center;">
 <img src="{{ '/pics/talk_test.png' | relative_url }}" alt="Talk Test" style="transform: scale(1.2); transform-origin: center; display: block; margin: 0 auto;">
 </div>
 
-
+'I run for 60 minutes once a week, and I feel breathing hard, but I can still talk to others while doing it.'
 Frequency: once a week; Intensity: moderate; Time: 60 minutes; Type: running
 
 ###  Physical activity guideline
@@ -57,7 +56,7 @@ Adults should focus on the benefits that matter most to them. For some, health i
 - Offers opportunities for enjoyable, often social, recreational activities;
 - Improves personal appearance, energy levels, and overall well-being; and
 - Creates chances to support and be active with family members or friends
-### Risks of Sedentary Behavior
+###  Risks of Sedentary Behavior
 
 Sedentary behavior means any waking activity that uses very little energy (≤1.5 METs) while sitting, reclining, or lying down. It includes time spent sitting at work or during leisure, such as watching TV (U.S. Department of Health and Human Services, 2018).
 
@@ -116,7 +115,7 @@ PRE RUN WARM UP & STRETCHES（Run and Stretch）- Source: YouTube.</p>
 </div>
 <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">How to Breathe so Running Feels EASIER! (Nicklas Rossner) - Source: YouTube.</p>
 
-## 4. Get ready: Sleep better, eat better
+## 4. Fuel your body, rest your mind
 For a healthier lifestyle, more energy, and better physical activity performance, sleep and nutrition matter. Adults aged 18-64 are recommended to get 7-9 hours of good-quality sleep regularly, along with a healthy diet. Use the tips below to support better sleep and healthier eating.
 
 ### Tip for falling asleep faster and sleeping better (National Health Service, n.d.)
