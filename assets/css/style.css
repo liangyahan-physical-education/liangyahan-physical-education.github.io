@@ -233,6 +233,17 @@ body {
     min-width: 0;
 }
 
+.two-column .column-left ul {
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.two-column .column-left li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+}
+
 .two-column .column-right img {
     margin: 0;
     width: 100%;
