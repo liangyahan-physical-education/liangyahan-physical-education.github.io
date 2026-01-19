@@ -135,6 +135,20 @@ body {
     font-style: italic;
     margin-top: 10px;
     text-align: center;
+    display: block;
+    width: 100%;
+}
+
+/* Ensure captions in two-column layout are also centered */
+.two-column .column-right figure {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.two-column .column-right figcaption {
+    text-align: center;
+    display: block;
+    width: 100%;
 }
 
 /* Responsive image sizes by device type */
