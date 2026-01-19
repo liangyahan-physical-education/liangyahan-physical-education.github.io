@@ -94,7 +94,7 @@ Start with a simple, low-barrier, high-benefit exercise: walking/jogging. Learn 
 **Warm-up for walking and running**
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tXDLy-Jd61s?si=cF7PMLVJRbLulq-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXDLy-Jd61s?si=vfavirtrcHvkQkBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">5 MIN PRE-RUNNING STRETCHING - WARM UP FOR RUNNERS (Run and Stretch) - Source: YouTube.</p>
 
