@@ -68,9 +68,13 @@ Sedentary behavior means any waking activity that uses very little energy (≤1.
 Spending more time in sedentary behavior increases the risk of:
 
 - All-cause mortality
+
 - Cardiovascular disease mortality
+
 - Cardiovascular disease
+
 - Type 2 diabetes
+
 - Colon, endometrial, and lung cancer
 
 </div>
