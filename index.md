@@ -131,7 +131,7 @@ Your sleep routine starts before bed. Relax each evening, avoid screens for at l
 
 **Video: Beditation**
 
-[When you're ready to sleep, listen to this audio-only video to help you to relax](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/#video).
+[When you're ready to sleep, listen to this audio-only video to help you to relax](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/how-can-meditation-help-with-sleep/).
 
 3) Try mindfulness for sleep
 Stress and worry can disrupt sleep, so try daily mindfulness habits like talking to someone you trust or journaling. If you lie awake overthinking, make a to-do list before bed to clear your mind.
