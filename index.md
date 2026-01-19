@@ -23,6 +23,7 @@ Physical activity is commonly described using the FITT principle: frequency (how
 </div>
 
 'I run for 60 minutes once a week, and I feel breathing hard, but I can still talk to others while doing it.'
+
 Frequency: once a week; Intensity: moderate; Time: 60 minutes; Type: running
 
 ###  Physical activity guideline
