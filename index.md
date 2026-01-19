@@ -31,10 +31,10 @@ Frequency: once a week; Intensity: moderate; Time: 60 minutes; Type: running
 Move more, sit less, every bit counts! Even small amounts of moderate-to-vigorous activity provide health benefits, and meeting activity guidelines brings even more.
 
 
-![Move Your Way]({{ '/pics/move_your_way.png' | relative_url }})
-
-
-Move Your Way Adult Dosage (U.S. Department of Health and Human Services, 2018)
+<figure>
+<img src="{{ '/pics/move_your_way.png' | relative_url }}" alt="Move Your Way" style="max-width: 100%; height: auto; display: block; margin: 20px auto;">
+<figcaption>Move Your Way Adult Dosage (U.S. Department of Health and Human Services, 2018)</figcaption>
+</figure>
 
 ## 2. Why physical activity matters?
 In adults, physical activity provides health benefits in the following areas (World Health Organization, 2020; U.S. Department of Health and Human Services, 2018):
