@@ -11,6 +11,8 @@ STEPPER: a physical activity program co-produced by and for young adults' well-b
 - Definition of physical activity
 "Physical activity is defined as any bodily movement produced by skeletal muscles that results in energy expenditure" (Caspersen et al., 1985)
 
+![Runners in a park]({{ '/pics/jogging-4211946.jpg' | relative_url }})
+
 Physical activity is any body movement that uses energy. It includes movement during free time, travel/transport, and daily tasks at work or home (World Health Organization, 2020). For example, walking to class, taking the stairs, cleaning, playing sports, or exercising, all of these count as physical activity.
 
 - Physical activity principle (FITT)
