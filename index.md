@@ -93,10 +93,17 @@ Start with a simple, low-barrier, high-benefit exercise: walking/jogging. Learn 
 
 **Warm-up for walking and running**
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tXDLy-Jd61s?si=vfavirtrcHvkQkBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin: 20px 0;">
+<a href="https://www.youtube.com/watch?v=tXDLy-Jd61s" target="_blank" rel="noopener noreferrer" style="display: inline-block; position: relative;">
+<img src="https://img.youtube.com/vi/tXDLy-Jd61s/maxresdefault.jpg" alt="5 MIN PRE-RUNNING STRETCHING - WARM UP FOR RUNNERS" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);">
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(255, 0, 0, 0.9); border-radius: 50%; width: 68px; height: 48px; display: flex; align-items: center; justify-content: center; pointer-events: none;">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="white">
+<path d="M8 5v14l11-7z"/>
+</svg>
 </div>
-<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">5 MIN PRE-RUNNING STRETCHING - WARM UP FOR RUNNERS (Run and Stretch) - Source: YouTube.</p>
+</a>
+</div>
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">5 MIN PRE-RUNNING STRETCHING - WARM UP FOR RUNNERS (Run and Stretch) - <a href="https://www.youtube.com/watch?v=tXDLy-Jd61s" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
 
 **Walking/jogging techniques**
 
