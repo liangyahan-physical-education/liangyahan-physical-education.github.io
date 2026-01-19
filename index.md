@@ -3,9 +3,7 @@ layout: default
 title: STEPPER
 ---
 
-STEPPER: a physical activity program co-produced by and for young adults' well-being
 
-(Education component)
 
 ## 1. What counts as physical activity?
 
