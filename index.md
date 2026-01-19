@@ -49,9 +49,10 @@ In adults, physical activity provides health benefits in the following areas (Wo
 - Sleep
 - Overweight or obesity
 
+<figure>
 <img src="{{ '/pics/does_response.png' | relative_url }}" alt="Dose response curve" style="max-width: 100%; height: auto; display: block; margin: 20px auto;">
-
-Dose response curve (World Health Organization, 2020)
+<figcaption>Dose response curve (World Health Organization, 2020)</figcaption>
+</figure>
 
 Adults should focus on the benefits that matter most to them. For some, health improvements are enough motivation to be active. For others, different personal reasons are more motivating. For example, physical activity can (U.S. Department of Health and Human Services, 2018): 
 
