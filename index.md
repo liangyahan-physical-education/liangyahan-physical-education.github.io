@@ -20,7 +20,9 @@ b. Physical activity principle (FITT)
 Physical activity is commonly described using the FITT principle: frequency (how often), intensity (how hard), time (how long), and type (what kind of activity)
 
 'I run for 60 minutes once a week, and I feel breathing hard, but I can still talk to others while doing it.'
-<img src="{{ '/pics/talk_test.png' | relative_url }}" alt="Talk Test" style="transform: scale(1.5); transform-origin: center; display: block; margin: 20px auto;">
+<div style="margin: 50px auto; text-align: center;">
+<img src="{{ '/pics/talk_test.png' | relative_url }}" alt="Talk Test" style="transform: scale(1.5); transform-origin: center; display: block; margin: 0 auto;">
+</div>
 
 
 Frequency: once a week; Intensity: moderate; Time: 60 minutes; Type: running
