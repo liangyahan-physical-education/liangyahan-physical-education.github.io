@@ -76,7 +76,7 @@ Spending more time in sedentary behavior increases the risk of:
 </div>
 <div class="column-right">
 
-![Relationship_between]({{ '/pics/risk.png' | relative_url }})
+<img src="{{ '/pics/risk.png' | relative_url }}" alt="Relationship Among Moderate-to-Vigorous Physical Activity, Sitting Time, and Risk of All-Cause Mortality" style="max-width: 100%; height: auto;">
 
 </div>
 </div>
