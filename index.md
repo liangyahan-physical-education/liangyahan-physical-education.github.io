@@ -49,7 +49,7 @@ In adults, physical activity provides health benefits in the following areas (Wo
 - Sleep
 - Overweight or obesity
 
-![Dose_response]({{ '/pics/does_response.png' | relative_url }})
+<img src="{{ '/pics/does_response.png' | relative_url }}" alt="Dose response curve" style="max-width: 100%; height: auto; display: block; margin: 20px auto;">
 
 Dose response curve (World Health Organization, 2020)
 
