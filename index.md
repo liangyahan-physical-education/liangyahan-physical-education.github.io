@@ -79,7 +79,10 @@ Sedentary behavior means any waking activity that uses very little energy (≤1.
 </div>
 <div class="column-right">
 
+<figure>
 <img src="{{ '/pics/risk.png' | relative_url }}" alt="Relationship Among Moderate-to-Vigorous Physical Activity, Sitting Time, and Risk of All-Cause Mortality" style="max-width: 100%; height: auto;">
+<figcaption>Relationship Among Moderate-to-Vigorous Physical Activity, Sitting Time, and Risk of All-Cause Mortality in Adults (U.S. Department of Health and Human Services, 2018)</figcaption>
+</figure>
 
 </div>
 </div>
