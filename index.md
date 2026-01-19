@@ -56,6 +56,7 @@ Adults should focus on the benefits that matter most to them. For some, health i
 - Offers opportunities for enjoyable, often social, recreational activities;
 - Improves personal appearance, energy levels, and overall well-being; and
 - Creates chances to support and be active with family members or friends
+
 ###  Risks of Sedentary Behavior
 
 Sedentary behavior means any waking activity that uses very little energy (≤1.5 METs) while sitting, reclining, or lying down. It includes time spent sitting at work or during leisure, such as watching TV (U.S. Department of Health and Human Services, 2018).
