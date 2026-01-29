@@ -148,41 +148,48 @@ Better sleep is supported by a healthy diet and regular exercise. Avoid big meal
 ### Tip for Healthy Eating (Centers for Disease Control and Prevention, 2024)
 
 1) Bump up fiber
+
 Fiber supports digestion, keeps you fuller longer, helps manage blood sugar, and can lower cholesterol. Good sources include fruits and vegetables, whole grains, legumes, nuts, and seeds.
 
 For example: Slice raw vegetables for quick snacks. Start your day with a whole-grain cereal, like oatmeal.
 
 2) Increase calcium and vitamin D
+
 Calcium and vitamin D support strong bones. Vitamin D can come from sunlight, but some people don't make enough, so fortified foods and drinks can help.
 
 For example: Cook with spinach, collard greens, bok choy, mushrooms, and taro root. Drink a fortified dairy beverage with your meals.
 
 3) Add more potassium
+
 Potassium supports the kidneys, heart, muscles, and nerves. Too little can raise blood pressure, weaken bones, and increase kidney stone risk. Most people in the U.S. need more, but those with kidney disease or on certain meds may need to limit it.
 
 For example: Try new recipes that use beets, lima beans, or Swiss chard. Have a banana as a snack.
 
 4) Limit added sugars
+
 They can increase risk of weight gain, obesity, type 2 diabetes, and heart disease. Added sugars include syrups like corn syrup, dextrose, and fructose, as well as table sugar, honey, and maple syrup, with sugary drinks being the common source.
 
 For example: Drink water instead of sugary drinks. At coffee shops, skip the flavored syrups and whipped cream.
 
 5) Replace saturated fats
+
 Swap saturated fats for healthier unsaturated fats to support heart health. Saturated fats are common in fatty meats, full-fat dairy, butter, and cream cheese, while unsaturated fats are generally the better choice.
 
 For example: Replace whole milk in a smoothie with low-fat yogurt and an avocado. Cook with oil instead of butter or margarine.
 
 6) Cut back on sodium
+
 Reduce sodium to lower the risk of high blood pressure, heart attack, and stroke. Most sodium comes from packaged and prepared foods, and about 90% of what we consume is from salt.
 
 For example: Eat high-sodium processed and prepackaged food (breads, pizza, and deli meats) less frequently.
 
 7) Aim for a variety of colors
+
 Eat a rainbow of fruits and vegetables, foods like oranges, tomatoes, leafy greens, and herbs provide lots of vitamins, minerals, and fiber.
 
 For example: Make a red sauce with fresh tomatoes, fresh herbs, and spices. Top low-fat, unsweetened yogurt with your favorite fruit.
 
-## 5. Quiz
+
 
 ## Reference
 
